@@ -736,15 +736,15 @@ export default function Template1() {
 
                             <h1 className="mt-6 font-script">
                                 <span className="block font-script text-5xl sm:text-5xl md:text-8xl text-[#b62039] leading-none">
-                                    Jaanu
+                                    Ram
                                 </span>
                             </h1>
                             <p className="mt-3 font-serif-display font-normal text-base sm:text-lg leading-relaxed text-[#4a1c24]/90">
-                                D/O
+                                S/O
                                 <br />
-                                Shri. Sethupathi
+                                Shri. Janagaraj
                                 <br />
-                                &amp; Smt. Gowri
+                                &amp; Smt. Danya
                             </p> 
 
                             <p className="mt-5 font-script text-2xl sm:text-4xl text-[#791526] italic">
@@ -753,15 +753,15 @@ export default function Template1() {
 
                             <h1 className="mt-2 font-script">
                                 <span className="block font-script text-5xl sm:text-5xl md:text-8xl text-[#b62039] leading-none">
-                                    Ram
+                                    Jaanu
                                 </span>
                             </h1>
                             <p className="mt-3 font-serif-display font-normal text-base sm:text-lg leading-relaxed text-[#4a1c24]/90 pb-8">
-                                S/O
+                                D/O
                                 <br />
-                                Shri. Janagaraj
+                                Shri. Sethupathi
                                 <br />
-                                &amp; Smt. Danya
+                                &amp; Smt. Gowri
                             </p>
                         </div>
                     </section>
@@ -1128,8 +1128,8 @@ export default function Template1() {
                         </div>
 
                         <h2 className="flyer-names">
-                            <span className="block">Jaanu &amp;</span>
-                            <span className="block">Ram</span>
+                            <span className="block">Ram &amp;</span>
+                            <span className="block">Jaanu</span>
                         </h2>
 
                         <div className="flyer-divider" />
