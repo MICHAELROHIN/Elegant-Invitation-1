@@ -976,7 +976,7 @@ export default function Template1() {
                                 WITH LOVE
                             </p>
                             <h2 className="mt-2 font-script text-4xl sm:text-5xl text-[#fff8f0]">
-                                Agrawal Family
+                                Janagaraj Family
                             </h2>
                             <Flower />
                             <p className="font-serif-display text-base italic text-[#fff8f0]/90">Eagerly waiting for your presence,</p>
